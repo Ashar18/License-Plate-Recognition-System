@@ -9,7 +9,6 @@
 - [Challenges Addressed](#challenges-addressed)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
