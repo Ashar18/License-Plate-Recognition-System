@@ -70,7 +70,7 @@ Open your web browser and go to http://localhost:5000 to start using the License
 ## Challenges Addressed
 
 - **Lighting Variations**: Effectively handles different lighting conditions, including low-light environments and glare.
-- **Diverse Plate Formats**: Supports recognition across multiple plate formats and regions.
+- **Diverse Plate Formats**: Supports recognition across multiple Pakistani number plate formats.
 - **Occlusions**: Capable of recognizing partially obscured or occluded license plates.
 
 ## Contributing
