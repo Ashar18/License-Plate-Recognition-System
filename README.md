@@ -42,17 +42,20 @@ To install and run the License Plate Recognition system on your local machine, f
 ```bash
 git clone https://github.com/Ashar18/license-plate-recognition.git
 cd license-plate-recognition
+```
 
 ### Step 2: Install Dependencies
 Install the necessary Python packages:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### Step 3: Run the Flask Application
 
 ```bash
 python app.py
+```
 
 Open your web browser and go to http://localhost:5000 to start using the License Plate Recognition system.
 
